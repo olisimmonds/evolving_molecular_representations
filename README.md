@@ -4,7 +4,7 @@ This work was conducted for a research project for my MSc in Artificial
 Intelligence. This work received a grade of  78%. The code was run on the
 University of Southampton's supercomputer Iridis. Due to the nature of 
 evolutionary algorithms, it is unfeasible to run the code files with 
-standard compute. Please see [Simmonds_dissertation_full](https://github.com/olisimmonds/evolving_molecular_representations/blob/7312e24736c297eb4dc10e770eb6345169beec52/Simmonds_dissertation_full.pdf).pdf for methods and
+standard compute. Please see [Simmonds_dissertation_full](https://github.com/olisimmonds/evolving_molecular_representations/blob/7312e24736c297eb4dc10e770eb6345169beec52/Simmonds_dissertation_full.pdf) for methods and
 results. See the abstract from this project below.
 
 The molecule representation problem entails encoding a molecule’s in
